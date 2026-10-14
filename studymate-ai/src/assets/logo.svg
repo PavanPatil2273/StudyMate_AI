@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="StudyMate AI logo">
+  <rect width="128" height="128" rx="28" fill="#0F172A"/>
+  <path d="M36 88V40c0-5.5 4.5-10 10-10h17c13.3 0 24 10.7 24 24v34" fill="none" stroke="#F8FAFC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 63h31" stroke="#60A5FA" stroke-width="8" stroke-linecap="round"/>
+  <path d="M50 81h23" stroke="#A78BFA" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="85" cy="45" r="16" fill="#60A5FA"/>
+</svg>
